@@ -1,3 +1,6 @@
 [submodule "server-performance-stats"]
 	path = server-performance-stats
 	url = https://github.com/mid-guy/server-performance-stats.git
+[submodule "tools/nginx-analyzer"]
+	path = tools/nginx-analyzer
+	url = https://github.com/mid-guy/nginx-analyzer.git
