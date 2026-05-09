@@ -1,9 +1,9 @@
 [submodule "server-performance-stats"]
 	path = server-performance-stats
 	url = https://github.com/mid-guy/server-performance-stats.git
-[submodule "tools/nginx-analyzer"]
-	path = tools/nginx-analyzer
-	url = https://github.com/mid-guy/nginx-analyzer.git
 [submodule "log-archive"]
 	path = log-archive
 	url = https://github.com/mid-guy/log-archive.git
+[submodule "nginx-analyzer"]
+	path = nginx-analyzer
+	url = https://github.com/mid-guy/nginx-analyzer.git
