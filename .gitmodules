@@ -4,3 +4,6 @@
 [submodule "tools/nginx-analyzer"]
 	path = tools/nginx-analyzer
 	url = https://github.com/mid-guy/nginx-analyzer.git
+[submodule "log-archive"]
+	path = log-archive
+	url = https://github.com/mid-guy/log-archive.git
